@@ -1,0 +1,164 @@
+{
+    "white-scare":{
+        "MainCategory":"adeptus-astart",
+        "SubCategory":"1er-Fondation",
+        "Description":"",
+        "Lore":"",
+        "cri de guerre":"Pour le Khan!, pour l'Empereur",
+        "primarque":"Jaghatai Khan"
+        
+    },
+    "blood-angel":{
+        "MainCategory":"adeptus-astart",
+        "SubCategory":"1er-Fondation",
+        "Description":"",
+        "Lore":"",
+        "cri de guerre":"Pour l'Empereur et Sanguinius!",
+        "primarque":"sanguinius"
+        
+    },
+    "iron-hand":{
+        "MainCategory":"adeptus-astart",
+        "SubCategory":"1er-Fondation",
+        "Description":"",
+        "Lore":"",
+        "cri de guerre":"Faible est la chair!",
+        "primarque":"Ferrus Manus"
+        
+    },
+    "imperial-fist":{
+        "MainCategory":"adeptus-astart",
+        "SubCategory":"1er-Fondation",
+        "Description":"",
+        "Lore":"",
+        "cri de guerre":"Pour sa gloire et celle du primarque Progenitor",
+        "primarque":"Rogal Dorn"
+        
+    },
+    "ultramarine":{
+        "MainCategory":"adeptus-astart",
+        "SubCategory":"1er-Fondation",
+        "Description":"",
+        "Lore":"",
+        "cri de guerre":"Courage et Honneur!",
+        "primarque":"Roboute Guilliman"
+        
+    },
+    "salamander":{
+        "MainCategory":"adeptus-astart",
+        "SubCategory":"1er-Fondation",
+        "Description":"",
+        "Lore":"",
+        "cri de guerre":"Dans les feux de la bataille ; sur l'enclume de la guerre",
+        "primarque":"Vulkan"
+        
+    },
+    "dark-angel":{
+        "MainCategory":"adeptus-astart",
+        "SubCategory":"1er-Fondation",
+        "Description":"",
+        "Lore":"",
+        "cri de guerre":"Repens-toi, car demain tu sera mort!",
+        "primarque":"Lion El'Jonson"
+        
+    },
+    "space-wolves":{
+        "MainCategory":"adeptus-astart",
+        "SubCategory":"1er-Fondation",
+        "Description":"",
+        "Lore":"",
+        "cri de guerre":"Pour Russ et l'Empereur",
+        "primarque":"Leman Russ"
+        
+    },
+    "raven-guard":{
+        "MainCategory":"adeptus-astart",
+        "SubCategory":"1er-Fondation",
+        "Description":"",
+        "Lore":"",
+        "cri de guerre":"La victoire ou la mort",
+        "primarque":"Corax"
+        
+    },
+    "sons-of-horus":{
+        "MainCategory":"heretic-astart",
+        "SubCategory":"1er-Fondation",
+        "Description":"",
+        "Lore":"",
+        "cri de guerre":"Nous somme de retour",
+        "primarque":"Horus Lupercal"
+        
+    },
+    "world-eaters":{
+        "MainCategory":"heretic-astart",
+        "SubCategory":"1er-Fondation",
+        "Description":"",
+        "Lore":"",
+        "cri de guerre":"Du sang pour le dieux du sang",
+        "primarque":"Angron"
+        
+    },
+    "death-guard":{
+        "MainCategory":"heretic-astart",
+        "SubCategory":"1er-Fondation",
+        "Description":"",
+        "Lore":"",
+        "cri de guerre":"Inconnu",
+        "primarque":"Mortarion"
+        
+    },
+    "emperor's-children":{
+        "MainCategory":"heretic-astart",
+        "SubCategory":"1er-Fondation",
+        "Description":"",
+        "Lore":"",
+        "cri de guerre":"Children of the empreror! Death to his foes!",
+        "primarque":"Fulgrim"
+        
+    },
+    "thousand-sons":{
+        "MainCategory":"heretic-astart",
+        "SubCategory":"1er-Fondation",
+        "Description":"",
+        "Lore":"",
+        "cri de guerre":"Tout n'est que poussière",
+        "primarque":"Magnus"
+        
+    },
+    "word-bearers":{
+        "MainCategory":"heretic-astart",
+        "SubCategory":"1er-Fondation",
+        "Description":"",
+        "Lore":"",
+        "cri de guerre":"Auncun",
+        "primarque":"Lorgar"
+        
+    },
+    "iron-warrior":{
+        "MainCategory":"heretic-astart",
+        "SubCategory":"1er-Fondation",
+        "Description":"",
+        "Lore":"",
+        "cri de guerre":"Iron within , Iron without",
+        "primarque":"Perturabo"
+        
+    },
+    "night-lords":{
+        "MainCategory":"heretic-astart",
+        "SubCategory":"1er-Fondation",
+        "Description":"",
+        "Lore":"",
+        "cri de guerre":"Konrad Curze",
+        "primarque":"Konrad"
+        
+    },
+    "alpha-legion":{
+        "MainCategory":"heretic-astart",
+        "SubCategory":"1er-Fondation",
+        "Description":"",
+        "Lore":"",
+        "cri de guerre":"inconnu",
+        "primarque":"Alpharius"
+        
+    }
+}

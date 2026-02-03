@@ -1,0 +1,171 @@
+body {
+    background-image:url(./image/wallpapersden.com_hd-warhammer-40k-gaming-2022_1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-size:200vh;
+
+}
+header {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .war{
+        width:49vh;
+        height:31vh; 
+    }
+}
+
+
+.astart{
+    padding-top: 20%;
+    display: none;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.heretic{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    .img1{
+         width:35vh;
+        height:45vh; 
+      position:absolute;
+        z-index: 10;      
+    }
+    .img2{
+        width:37vh;
+        height:60vh; 
+   position: absolute;
+        z-index: 20;
+    }
+}
+
+.adeptus{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .img3{
+        width:35vh;
+        height:45vh; 
+      position: absolute;
+        z-index: 10;      
+    }
+    .img4{
+        width:37vh;
+        height:60vh; 
+   position: absolute;
+        z-index: 20;
+    }
+}
+
+button{
+    background-color: transparent;
+    border-color: transparent;
+    width: 49;
+    height: 31;
+}
+.good{
+    display: none;
+    align-items: center;
+    justify-content: space-around;
+    .white_scar{
+        width:20vh;
+        height:20vh; 
+        z-index: 10;      
+    }
+    .img5{
+        width:21vh;
+        height:25vh; 
+   position: absolute;
+        z-index: 20;
+    }
+    .salamander{
+        width:20vh;
+        height:20vh; 
+        z-index: 10;      
+    }
+    .img6{
+        width:21vh;
+        height:25vh; 
+   position: absolute;
+        z-index: 20;
+    }
+    .blood_angel{
+        width:20vh;
+        height:20vh; 
+        z-index: 10;      
+    }
+    .img7{
+        width:21vh;
+        height:25vh; 
+   position: absolute;
+        z-index: 20;
+    }
+    .imperial_fist{
+        width:20vh;
+        height:20vh; 
+        z-index: 10;      
+    }
+    .img8{
+        width:21vh;
+        height:25vh; 
+   position: absolute;
+        z-index: 20;
+    }
+    .iron_hand{
+        width:20vh;
+        height:20vh; 
+        z-index: 10;      
+    }
+    .img9{
+        width:21vh;
+        height:25vh; 
+   position: absolute;
+        z-index: 20;
+    }
+    .dark_angel{
+        width:20vh;
+        height:20vh; 
+        z-index: 10;      
+    }
+    .img10{
+        width:21vh;
+        height:25vh; 
+   position: absolute;
+        z-index: 20;
+    }
+    .space_wolf{
+        width:20vh;
+        height:20vh; 
+        z-index: 10;      
+    }
+    .img11{
+        width:21vh;
+        height:25vh; 
+   position: absolute;
+        z-index: 20;
+    }
+    .ultramarine{
+        width:20vh;
+        height:20vh; 
+        z-index: 10;      
+    }
+    .img12{
+        width:21vh;
+        height:25vh; 
+   position: absolute;
+        z-index: 20;
+    }
+    .raven_guard{
+        width:20vh;
+        height:20vh; 
+        z-index: 10;      
+    }
+    .img13{
+        width:21vh;
+        height:25vh; 
+   position: absolute;
+        z-index: 20;
+    }
+}
