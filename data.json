@@ -2,25 +2,23 @@
     "white-scare":{
         "MainCategory":"adeptus-astart",
         "SubCategory":"1er-Fondation",
-        "Description":"",
+        "Description":"armure blanc ivoir , bordure rouge sang , force actuel: 1000 , specialist dans la guerre eclair",
         "Lore":"",
-        "cri de guerre":"Pour le Khan!, pour l'Empereur",
         "primarque":"Jaghatai Khan"
         
     },
     "blood-angel":{
         "MainCategory":"adeptus-astart",
         "SubCategory":"1er-Fondation",
-        "Description":"",
+        "Description":"arumure rouge sang , force actuelle 1000 + compagnie de la Mort , specialist en assaut",
         "Lore":"",
-        "cri de guerre":"Pour l'Empereur et Sanguinius!",
         "primarque":"sanguinius"
         
     },
     "iron-hand":{
         "MainCategory":"adeptus-astart",
         "SubCategory":"1er-Fondation",
-        "Description":"",
+        "Description":"armure noir carbone , bordures gris argent , force actuelle 1000 , specialist en bionique et augmétiques",
         "Lore":"",
         "cri de guerre":"Faible est la chair!",
         "primarque":"Ferrus Manus"
@@ -29,7 +27,7 @@
     "imperial-fist":{
         "MainCategory":"adeptus-astart",
         "SubCategory":"1er-Fondation",
-        "Description":"",
+        "Description":"armure jaune , force actuelle 10 compagnie standards , specialist en sièges",
         "Lore":"",
         "cri de guerre":"Pour sa gloire et celle du primarque Progenitor",
         "primarque":"Rogal Dorn"
@@ -38,7 +36,7 @@
     "ultramarine":{
         "MainCategory":"adeptus-astart",
         "SubCategory":"1er-Fondation",
-        "Description":"",
+        "Description":"armure bleu , force actuelle 1000 , specialist en guerre tyraniques",
         "Lore":"",
         "cri de guerre":"Courage et Honneur!",
         "primarque":"Roboute Guilliman"
@@ -47,7 +45,7 @@
     "salamander":{
         "MainCategory":"adeptus-astart",
         "SubCategory":"1er-Fondation",
-        "Description":"",
+        "Description":"armure vert marin , blanc et noir , force actuelle 7 compagnie , specialist en combat rapproché",
         "Lore":"",
         "cri de guerre":"Dans les feux de la bataille ; sur l'enclume de la guerre",
         "primarque":"Vulkan"
@@ -56,7 +54,7 @@
     "dark-angel":{
         "MainCategory":"adeptus-astart",
         "SubCategory":"1er-Fondation",
-        "Description":"",
+        "Description":"noir de jais/blanc , force actuel 1000 , specialist dans la traque des déchus",
         "Lore":"",
         "cri de guerre":"Repens-toi, car demain tu sera mort!",
         "primarque":"Lion El'Jonson"
@@ -65,7 +63,7 @@
     "space-wolves":{
         "MainCategory":"adeptus-astart",
         "SubCategory":"1er-Fondation",
-        "Description":"",
+        "Description":"armure gris-bleu , force actuelles 12 grand compagnies , specialist en assaut",
         "Lore":"",
         "cri de guerre":"Pour Russ et l'Empereur",
         "primarque":"Leman Russ"
@@ -74,7 +72,7 @@
     "raven-guard":{
         "MainCategory":"adeptus-astart",
         "SubCategory":"1er-Fondation",
-        "Description":"",
+        "Description":"armure noir et blanc , force actuelle 1000 , specialist en guerilla et attaque eclair",
         "Lore":"",
         "cri de guerre":"La victoire ou la mort",
         "primarque":"Corax"
@@ -83,7 +81,7 @@
     "sons-of-horus":{
         "MainCategory":"heretic-astart",
         "SubCategory":"1er-Fondation",
-        "Description":"",
+        "Description":"armure noir , specialist en ambivalence , charisme",
         "Lore":"",
         "cri de guerre":"Nous somme de retour",
         "primarque":"Horus Lupercal"
@@ -92,7 +90,7 @@
     "world-eaters":{
         "MainCategory":"heretic-astart",
         "SubCategory":"1er-Fondation",
-        "Description":"",
+        "Description":"armure rouge gore , specialist corps a corps",
         "Lore":"",
         "cri de guerre":"Du sang pour le dieux du sang",
         "primarque":"Angron"
@@ -101,7 +99,7 @@
     "death-guard":{
         "MainCategory":"heretic-astart",
         "SubCategory":"1er-Fondation",
-        "Description":"",
+        "Description":"armure gris verdatre sale , specialist en endurance , infanterie , maladies",
         "Lore":"",
         "cri de guerre":"Inconnu",
         "primarque":"Mortarion"
@@ -110,7 +108,7 @@
     "emperor's-children":{
         "MainCategory":"heretic-astart",
         "SubCategory":"1er-Fondation",
-        "Description":"",
+        "Description":"armure noir et rose , specialist dans les armes soniques",
         "Lore":"",
         "cri de guerre":"Children of the empreror! Death to his foes!",
         "primarque":"Fulgrim"
@@ -119,7 +117,7 @@
     "thousand-sons":{
         "MainCategory":"heretic-astart",
         "SubCategory":"1er-Fondation",
-        "Description":"",
+        "Description":"armure bleu royal et or , specialist en magie et sorcellerie",
         "Lore":"",
         "cri de guerre":"Tout n'est que poussière",
         "primarque":"Magnus"
@@ -128,7 +126,7 @@
     "word-bearers":{
         "MainCategory":"heretic-astart",
         "SubCategory":"1er-Fondation",
-        "Description":"",
+        "Description":"armure rouge sombre , specialist en endoctrinement religieux",
         "Lore":"",
         "cri de guerre":"Auncun",
         "primarque":"Lorgar"
@@ -137,7 +135,7 @@
     "iron-warrior":{
         "MainCategory":"heretic-astart",
         "SubCategory":"1er-Fondation",
-        "Description":"",
+        "Description":"armure argenté , bord doré et epaulettes noires , specialist dans les tactique de sieges superieur",
         "Lore":"",
         "cri de guerre":"Iron within , Iron without",
         "primarque":"Perturabo"
@@ -146,16 +144,16 @@
     "night-lords":{
         "MainCategory":"heretic-astart",
         "SubCategory":"1er-Fondation",
-        "Description":"",
+        "Description":"armure bleu foncé associé de motif macabre , specialist dans l'attaque des faible",
         "Lore":"",
-        "cri de guerre":"Konrad Curze",
+        "cri de guerre":"We have come for you",
         "primarque":"Konrad"
         
     },
     "alpha-legion":{
         "MainCategory":"heretic-astart",
         "SubCategory":"1er-Fondation",
-        "Description":"",
+        "Description":"armure bleu-vert et argent , specialité inconnu",
         "Lore":"",
         "cri de guerre":"inconnu",
         "primarque":"Alpharius"
